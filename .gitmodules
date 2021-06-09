@@ -1,0 +1,14 @@
+[submodule "the21erblog/21er.github.io"]
+	path = the21erblog/21er.github.io
+	url = https://github.com/21er/21er.github.io.git
+	branch = main
+[submodule "the21erblog/public"]
+	path = the21erblog/public
+	url = https://github.com/21er/21er.github.io.git
+	branch = main
+[submodule "the21erblog/themes/eureka"]
+	path = the21erblog/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "the21erblog/themes/mini"]
+	path = the21erblog/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git

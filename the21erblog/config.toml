@@ -1,0 +1,4 @@
+baseURL = "https://21er.github.io"
+languageCode = "en-us"
+title = "21er Blog"
+theme = "eureka"
